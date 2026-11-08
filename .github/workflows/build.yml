@@ -1,3 +1,4 @@
+
 name: Build Frame Window Lab
 
 on:
@@ -15,4 +16,3 @@ jobs:
 
       - name: Build Geode mod
         uses: geode-sdk/build-geode-mod@main
-
